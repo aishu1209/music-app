@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin:0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.note{
+font-size: 18px;
+color:darkblue;
+
+}
